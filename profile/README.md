@@ -27,12 +27,12 @@ Our approach to our projects is different with each partner because each partner
 
 ### 🚀 Contribution
 To collaborate with us:
-1. Review our [Contribution Guide](link-to-guide).
+1. Review our [Contribution Guide](https://github.com/Kubilabs/.github/blob/main/CONTRIBUTING.md).
 2. Search for issues tagged "good first issue".
 3. Open a Pull Request following our coding standards.
 
 ### 🛡️ Code of Conduct
-We maintain an inclusive and respectful environment. You can read our [Code of Conduct here](link-al-coc).
+We maintain an inclusive and respectful environment. You can read our [Code of Conduct here](https://github.com/Kubilabs/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ### 📫 Contact and Community
 - Follow us on IG: [@kubilabs](https://www.instagram.com/kubilabs/).
